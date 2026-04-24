@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anshalupmanyu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Hey%2C+I'm+Anshal+%F0%9F%91%8B;ML+Engineer+%7C+GenAI+%7C+MLOps;I+build+production+AI+systems%2C+not+notebooks." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=Hey%2C+I'm+Anshal+%F0%9F%91%8B;ML+Engineer+%7C+GenAI+%7C+MLOps;I+build+production+AI+systems%2C+not+notebooks." alt="Typing SVG" />
   </a>
 </p>
 
