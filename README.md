@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anshalupmanyu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Anshal+%F0%9F%91%8B;ML+Engineer+%7C+GenAI+%7C+MLOps;I+build+production+AI+systems%2C+not+notebooks." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Hey%2C+I'm+Anshal+%F0%9F%91%8B;ML+Engineer+%7C+GenAI+%7C+MLOps;I+build+production+AI+systems%2C+not+notebooks." alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +15,6 @@
 **Systems Engineer @ Infosys** — but what I'm actually passionate about is building ML systems that go beyond Jupyter notebooks.
 
 I spend most of my time working on production AI/ML pipelines — think RAG systems, drift detection engines, and full-stack monitoring dashboards. I like when things are containerized, API-first, and actually deployable.
-
-🔭 **Currently:** Building a quantitative swing trading engine with technical analysis, backtesting, and signal generation.
 
 ---
 
@@ -73,12 +71,6 @@ I spend most of my time working on production AI/ML pipelines — think RAG syst
 | **[Enterprise RAG Pipeline](https://github.com/Anshalupmanyu/enterprise-rag-pipeline)** | Production RAG system with sub-800ms latency | `LangChain` `FAISS` `FastAPI` `Docker` |
 | **[MLOps Drift Detection](https://github.com/Anshalupmanyu/mlops-drift-detection)** | Auto-detects data drift & triggers retraining | `Scikit-learn` `MLflow` `FastAPI` `Docker` |
 | **[GenAI Monitoring Dashboard](https://github.com/Anshalupmanyu/genai-monitoring-dashboard)** | Full-stack LLM monitoring with RBAC | `Angular` `FastAPI` `Ollama` `Docker` |
-
----
-
-### 📊 What I'm Building Right Now
-
-A **quantitative swing trading engine** — signal generation using RSI, MACD, ADX, Stochastic Oscillators, and news sentiment analysis. Includes a full backtesting framework with portfolio simulation. Work in progress, not public yet.
 
 ---
 
