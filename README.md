@@ -66,9 +66,6 @@ I spend most of my time working on production AI/ML pipelines — think RAG syst
   <a href="https://github.com/Anshalupmanyu/genai-monitoring-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshalupmanyu&repo=genai-monitoring-dashboard&theme=tokyonight&hide_border=true" alt="GenAI Dashboard"/>
   </a>
-  <a href="https://github.com/Anshalupmanyu/Personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshalupmanyu&repo=Personal-portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
-  </a>
 </p>
 
 | Project | What It Does | Tech |
